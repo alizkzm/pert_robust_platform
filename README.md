@@ -13,7 +13,7 @@ Transferability scores aim to quantify how well a model trained on one domain ge
 ## Features
 
 - Evaluation of multiple transferability metrics.
-- Support for specifying the source domain of pre-trained models.
+- Support for specifying the source domain of pre-trained models (supervised).
 - Comparative evaluation of head-only vs full fine-tuning.
 - Control over the complexity of the model hub based on model parameters.
 - Easy-to-use scripts for feature extraction, metric evaluation, and transferability estimation.
