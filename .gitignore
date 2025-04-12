@@ -1,0 +1,6 @@
+
+*.pyc
+__pycache__/
+models/group1/checkpoints/
+results_f/
+results_metrics/
