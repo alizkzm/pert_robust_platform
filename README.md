@@ -47,6 +47,7 @@ pip install -r requirements.txt
 | `-c`     | Specifies the model-hub complexity degree based on model parameter count: <br> `1` → 7 models with the lowest parameters <br> `5` → 7 models with the highest parameters <br> `2-4` → Intermediate selections from low to high complexity. |
 | `-d`     | Specifies the target dataset name (e.g., `caltech101`, `cifar10`, etc.). |
 | `-m`     | Specifies the source model name (e.g., `resnet18`, `densenet121`, etc.). |
+| `-me`     | Specifies the transferability score (e.g., `sfda`, `wasserstein`, etc.). |
 
 ---
 
