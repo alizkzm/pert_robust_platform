@@ -22,13 +22,12 @@ Transferability scores aim to quantify how well a model trained on one domain ge
 
 ## Requirements
 
-- Python 3.9+
 - PyTorch 2.0+
 - torchvision 0.15+
 - numpy 1.24+
 - pandas 1.5+
 - scikit-learn 1.2+
-- timm 0.9+
+- timm 1.0.15
 - tqdm 4.65+
 
 Install all dependencies via:
