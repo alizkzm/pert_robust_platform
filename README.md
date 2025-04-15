@@ -30,11 +30,6 @@ Transferability scores aim to quantify how well a model trained on one domain ge
 - timm 1.0.15
 - tqdm 4.65+
 
-Install all dependencies via:
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Argument Definitions
